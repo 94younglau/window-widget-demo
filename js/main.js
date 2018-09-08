@@ -5,7 +5,7 @@ require.config({
 	paths: {
 		jquery: 'jquery-3.1.1.min',
 		//添加jqueryUI组件，用于拖动功能
-		jqueryUI: 'http://code.jquery.com/ui/1.10.4/jquery-ui'
+		jqueryUI: 'https://code.jquery.com/ui/1.10.4/jquery-ui'
 	}
 });
 
